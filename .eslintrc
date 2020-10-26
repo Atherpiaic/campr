@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "extends": "rallycoding",
   "rules": {
@@ -6,3 +7,13 @@
     "radix": 0
   }
 }
+=======
+{
+  "extends": "rallycoding",
+  "rules": {
+    "arrow-body-style": 0,
+    "no-underscore-dangle": 0,
+    "radix": 0
+  }
+}
+>>>>>>> 8bdd2be9d0b853a591fd130afe091a66a90f6183
